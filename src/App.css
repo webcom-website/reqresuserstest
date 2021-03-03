@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+.list {
+  position: relative;
+  top: 15vh;
+
+  margin: 0 auto;
+  margin-bottom: 25vh;
+}
+
+.prof {
+  position: relative;
+  top: 15vh;
+
+  bottom: 10vh;
+}
